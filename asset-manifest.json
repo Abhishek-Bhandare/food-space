@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/food-space/static/css/main.5cafc51a.css",
+    "main.js": "/food-space/static/js/main.4d81dd46.js",
+    "static/media/biryani.png": "/food-space/static/media/biryani.e765607d9ad310151c30.png",
+    "static/media/biryani3.png": "/food-space/static/media/biryani3.9cc58f1aa1c608dedaad.png",
+    "static/media/biryani2.png": "/food-space/static/media/biryani2.441280f974aa1f3fd8c6.png",
+    "static/media/mobile_bike.gif": "/food-space/static/media/mobile_bike.9a0ce817fb81695cba85.gif",
+    "static/media/biryani5.png": "/food-space/static/media/biryani5.eb08a07273fb6f99cf44.png",
+    "static/media/biryani4.png": "/food-space/static/media/biryani4.d33ca2bffcb4ed21113c.png",
+    "static/media/food-logo.png": "/food-space/static/media/food-logo.50a9b10ad357b6ee4741.png",
+    "static/media/dark-mode-button.png": "/food-space/static/media/dark-mode-button.c5b620c1550b3c201b56.png",
+    "static/media/light-mode-button.png": "/food-space/static/media/light-mode-button.9ed4504ff522dfde699a.png",
+    "static/media/app_store.png": "/food-space/static/media/app_store.8a5164ca9f62a2d5c172.png",
+    "static/media/vector3.png": "/food-space/static/media/vector3.11f7c2d7ef6c649f560e.png",
+    "static/media/play_store.png": "/food-space/static/media/play_store.1be3feade6ae12c67801.png",
+    "static/media/biryani_cover.jpg": "/food-space/static/media/biryani_cover.ebed878dc4647355a989.jpg",
+    "static/media/slick.svg": "/food-space/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/food-space/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/food-space/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/food-space/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/food-space/index.html",
+    "main.5cafc51a.css.map": "/food-space/static/css/main.5cafc51a.css.map",
+    "main.4d81dd46.js.map": "/food-space/static/js/main.4d81dd46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cafc51a.css",
+    "static/js/main.4d81dd46.js"
+  ]
+}
